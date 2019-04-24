@@ -1,7 +1,7 @@
 ## ECL-calculator-RShiny-
 This tool calculates expected credit loss based on certain assumption
 
-[link to the app] (https://narendrasahu.shinyapps.io/ECL-Calculator/)
+[link to the app](https://narendrasahu.shinyapps.io/ECL-Calculator/)
 
 #### Assumptions
 - Through the cycle (TTC PD) is given and treated as an input parameter
